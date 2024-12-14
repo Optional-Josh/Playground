@@ -1,0 +1,123 @@
+Here’s a list of **100 basic Python projects** that can be done in about an hour, depending on your experience. These projects are simple, perfect for beginners, and cover a variety of topics:
+
+### 1–10: **Basic Applications**
+1. **Number Guessing Game** - Create a game where the user guesses a randomly generated number.
+2. **Simple Calculator** - Implement basic operations: addition, subtraction, multiplication, and division.
+3. **Unit Converter** - Convert between different units (length, weight, temperature).
+4. **Palindrome Checker** - Check if a string is a palindrome.
+5. **Vowel Counter** - Count the number of vowels in a string.
+6. **Even or Odd Checker** - Check if a number is even or odd.
+7. **Simple Alarm Clock** - Set a time and display a message when it’s reached.
+8. **Tip Calculator** - Calculate tips based on the total bill and the percentage.
+9. **Age Calculator** - Calculate the user’s age based on their birthdate.
+10. **Fibonacci Sequence** - Print the first N Fibonacci numbers.
+
+### 11–20: **String Manipulation**
+11. **Character Count** - Count the frequency of characters in a string.
+12. **Remove Duplicates from List** - Remove duplicates from a given list.
+13. **Reverse a String** - Reverse a given string without using Python’s built-in functions.
+14. **Caesar Cipher** - Encrypt and decrypt messages using a simple Caesar cipher.
+15. **Word Frequency Counter** - Count the occurrences of each word in a string.
+16. **Substring Finder** - Find all occurrences of a substring in a string.
+17. **Title Case** - Convert a string to title case (each word capitalized).
+18. **Find Longest Word** - Find the longest word in a sentence.
+19. **Anagram Checker** - Check if two strings are anagrams.
+20. **Remove Punctuation** - Remove punctuation marks from a string.
+
+### 21–30: **Lists and Loops**
+21. **Find the Maximum and Minimum of a List** - Return the largest and smallest elements of a list.
+22. **Sum of List** - Calculate the sum of all elements in a list.
+23. **List Reversal** - Reverse a list without using the built-in reverse() method.
+24. **Multiply List Elements** - Multiply all elements of a list.
+25. **Even Numbers from a List** - Extract and display all even numbers from a list.
+26. **Common Elements in Two Lists** - Find common elements between two lists.
+27. **Find the Second Largest Element** - Find the second largest element in a list.
+28. **Sort List** - Sort a list in ascending or descending order.
+29. **Matrix Multiplication** - Multiply two matrices.
+30. **List Intersection** - Get the intersection of two lists.
+
+### 31–40: **Functions and Recursion**
+31. **Factorial Calculator** - Calculate the factorial of a number using recursion.
+32. **Sum of Natural Numbers** - Calculate the sum of the first N natural numbers.
+33. **Prime Number Checker** - Check if a number is prime.
+34. **Greatest Common Divisor** - Find the greatest common divisor (GCD) of two numbers.
+35. **Fibonacci Series with Recursion** - Print Fibonacci numbers using recursion.
+36. **Count Down Timer** - Create a countdown timer function.
+37. **Exponentiation Function** - Write a function to calculate the power of a number.
+38. **Perfect Number Check** - Check if a number is perfect (sum of divisors equals the number).
+39. **Factorial without Recursion** - Calculate factorial using iteration (not recursion).
+40. **String to List of Characters** - Convert a string to a list of characters.
+
+### 41–50: **File Handling**
+41. **Read and Write Text File** - Read from and write to a text file.
+42. **Count Lines in a File** - Count how many lines are in a given text file.
+43. **Copy File** - Create a copy of a file.
+44. **Read a CSV File** - Read and display the contents of a CSV file.
+45. **Write Data to CSV** - Write a list of data to a CSV file.
+46. **Rename a File** - Rename a file using Python.
+47. **Delete a File** - Delete a file from the system.
+48. **File Extension Checker** - Check the extension of a file.
+49. **Sort Data in a CSV File** - Sort the data of a CSV file.
+50. **Append Data to File** - Add content to the end of an existing file.
+
+### 51–60: **Data Structures**
+51. **Implement a Stack** - Create a stack class and implement push/pop operations.
+52. **Queue Implementation** - Implement a queue using lists.
+53. **Dictionary Merge** - Merge two dictionaries into one.
+54. **Dictionary Key-Value Swap** - Swap keys and values in a dictionary.
+55. **List to Set Conversion** - Convert a list into a set to remove duplicates.
+56. **Sum of Dictionary Values** - Sum the values in a dictionary.
+57. **Sort a Dictionary by Keys** - Sort a dictionary based on its keys.
+58. **Count Word Occurrences with a Dictionary** - Count word frequencies in a text using a dictionary.
+59. **Find Common Elements Using Sets** - Find common elements between two sets.
+60. **Intersection of Two Sets** - Find the intersection of two sets.
+
+### 61–70: **Simple Games and Fun Projects**
+61. **Rock, Paper, Scissors Game** - Create a simple game with choices of rock, paper, and scissors.
+62. **Tic-Tac-Toe** - Create a playable tic-tac-toe game.
+63. **Coin Toss Simulator** - Simulate a coin toss (heads or tails).
+64. **Hangman Game** - Create a simple version of the hangman game.
+65. **Dice Rolling Simulator** - Simulate the rolling of dice.
+66. **Memory Game** - A simple memory game where you match pairs.
+67. **Random Joke Generator** - Display a random joke using an API or predefined jokes.
+68. **Random Password Generator** - Generate a random password with specific criteria.
+69. **Sudoku Solver** - Create a simple Sudoku puzzle solver.
+70. **Guess the Word Game** - Generate a random word and let the user guess it.
+
+### 71–80: **Simple Web and GUI Projects**
+71. **Simple Web Scraper** - Scrape a website’s content using BeautifulSoup.
+72. **Create a Web Form** - Build a simple form that asks for a name and email.
+73. **URL Shortener** - Shorten a URL using an API.
+74. **Weather App** - Create a weather app using an API to get weather information.
+75. **Currency Converter with API** - Build a currency converter app using an exchange rate API.
+76. **Simple Chatbot** - Build a very basic text-based chatbot.
+77. **Create a Basic Calculator with Tkinter** - Use Tkinter to build a GUI-based calculator.
+78. **GUI To-Do List** - Build a to-do list app with Tkinter.
+79. **Photo Slideshow** - Create a photo slideshow using Tkinter.
+80. **Web Browser Using Python** - Create a simple web browser with PyQt or tkinter.
+
+### 81–90: **Mathematical and Number-Based Projects**
+81. **Pythagorean Theorem** - Calculate the hypotenuse of a triangle given two sides.
+82. **Sum of Digits** - Find the sum of the digits of a number.
+83. **Armstrong Number** - Check if a number is an Armstrong number.
+84. **Sum of Prime Numbers** - Find the sum of prime numbers up to N.
+85. **Square Root Calculation** - Calculate the square root of a number.
+86. **Area of a Circle** - Calculate the area of a circle given the radius.
+87. **Find LCM** - Find the least common multiple of two numbers.
+88. **Find GCD** - Calculate the greatest common divisor using Euclid’s algorithm.
+89. **Sum of Cubes** - Find the sum of cubes of the first N numbers.
+90. **Prime Factorization** - Find the prime factors of a given number.
+
+### 91–100: **Miscellaneous**
+91. **Password Validator** - Validate a password based on length and characters.
+92. **Date Difference** - Calculate the difference between two dates.
+93. **Random Name Generator** - Generate random names from predefined lists.
+94. **Count Words in a File** - Count the words in a given text file.
+95. **Convert Decimal to Binary** - Convert a decimal number to binary.
+96. **Temperature Converter** - Convert Celsius to Fahrenheit and vice versa.
+97. **Simple HTML Page Generator** - Generate a simple HTML page with some content.
+98. **Sort List of Tuples** - Sort a list of tuples based on the second element.
+99. **Simple Interest Calculator** - Calculate simple interest based on principal, rate, and time.
+100. **Binary Search** - Implement the binary search algorithm.
+
+These projects cover various topics, such as algorithms, data structures, file handling, basic games, and web scraping, providing a broad overview to practice Python skills.
