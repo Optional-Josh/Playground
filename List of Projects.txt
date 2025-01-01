@@ -3,8 +3,8 @@ These projects are simple, perfect for beginners, and cover a variety of topics:
 1–10: Basic Applications
 1. Number Guessing Game - Create a game where the user guesses a randomly generated number. [DONE]
 2. Simple Calculator  - Implement basic operations: addition, subtraction, multiplication, and division. [DONE]
-3.  Unit Converter  - Convert between different units (length, weight, temperature).
-4.  Palindrome Checker  - Check if a string is a palindrome.
+3.  Unit Converter  - Convert between different units (length, weight, temperature). [DONE]
+4.  Palindrome Checker  - Check if a string is a palindrome. [DONE]
 5.  Vowel Counter  - Count the number of vowels in a string.
 6.  Even or Odd Checker  - Check if a number is even or odd.
 7.  Simple Alarm Clock  - Set a time and display a message when it’s reached.
