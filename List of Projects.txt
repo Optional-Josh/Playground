@@ -7,7 +7,7 @@ These projects are simple, perfect for beginners, and cover a variety of topics:
 4.  Palindrome Checker  - Check if a string is a palindrome. [DONE]
 5.  Vowel Counter  - Count the number of vowels in a string. [DONE]
 6.  Even or Odd Checker  - Check if a number is even or odd. [DONE]
-7.  Simple Alarm Clock  - Set a time and display a message when it’s reached.
+7.  Simple Alarm Clock  - Set a time and display a message when it’s reached. [DONE]
 8.  Tip Calculator  - Calculate tips based on the total bill and the percentage.
 9.  Age Calculator  - Calculate the user’s age based on their birthdate.
 10.  Fibonacci Sequence  - Print the first N Fibonacci numbers.
